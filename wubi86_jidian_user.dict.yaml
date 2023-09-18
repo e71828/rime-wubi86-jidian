@@ -17,6 +17,19 @@ sort: original
 # `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
 
 ...
-## 这是分组名
+## 正词
+西北工业大学	suai
+滤波	ihih	1
+滤波器	iikk	1
+
+## 人名
 分组词条	wxyt
+袁腾飞	fenu
+唐金峰	yqmt	1
+王惠刚	ggmq	1
+徐丽娟	tgvk	1
+贾嘉	ssfk	1
+杨官渌	spiv	1
+小青	ihge	1
+陆小风	bimq
 
