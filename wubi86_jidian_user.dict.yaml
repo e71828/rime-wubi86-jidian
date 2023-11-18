@@ -19,17 +19,19 @@ sort: original
 ...
 ## 正词
 西北工业大学	suai
-滤波	ihih	1
-滤波器	iikk	1
+滤波	ihih	100
+滤波器	iikk	100
+椰汁	sbif	100
+释意	touj	10
 
 ## 人名
 分组词条	wxyt
-袁腾飞	fenu
-唐金峰	yqmt	1
-王惠刚	ggmq	1
-徐丽娟	tgvk	1
-贾嘉	ssfk	1
-杨官渌	spiv	1
-小青	ihge	1
-陆小风	bimq
+袁腾飞	fenu	10
+唐金峰	yqmt	100
+王惠刚	ggmq	100
+徐丽娟	tgvk	20
+贾嘉	ssfk	20
+杨官渌	spiv	20
+小青	ihge	20
+陆小风	bimq	10
 
