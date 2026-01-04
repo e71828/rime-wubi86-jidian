@@ -20,3 +20,31 @@ sort: original
 ## 这是分组名
 分组词条	wxyt
 
+## 正词
+椰汁	sbif	100
+释意	touj	10
+JetBrains	jetb	10
+PyCharm	pyca	10
+艺人	anww	10
+知网	tdmq	100
+Github	gith	100
+
+## 线代 高数
+矩阵论	tbyw	100
+向量代数	tjwo	100
+坐标轴	wslm	100
+单位向量	uwtj	100
+广义逆	yyub	100
+高等数学	ytoi	100
+特征值	ttwf	100
+特征向量	tttj	100
+行列式的值	tgaw	100
+可逆矩阵	sutb	100
+不可逆矩阵	gsub	100
+正定矩阵	gptb	100
+正交向量组	gutx	100
+正交矩阵	gutb	100
+酉矩阵	stbl	100
+施密特正交化	yptw	100
+概率论与数理统计	syyy	100
+
