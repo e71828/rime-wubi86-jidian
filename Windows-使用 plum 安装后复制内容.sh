@@ -1,5 +1,6 @@
+#!/usr/bin/env bash
 echo "Running rime-install"
-"$APPDATA"/plum/rime-install e71828/wubi86-jidian
+"$APPDATA"/plum/rime-install e71828/wubi86-jidian@custom
 echo "Finished rime-install"
 
 echo "Copying custom.yaml files"
